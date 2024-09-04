@@ -1,0 +1,6 @@
+This  is a sample text for testing  line  justification.  It
+includes various words and spaces to ensure that the program
+handles them  properly.  The  goal  is  to  achieve  uniform
+spacing   between  words   and   create   nicely   formatted
+paragraphs.  The program should ensure that the lines do not
+exceed the specified maximum length. -- Sample Author
